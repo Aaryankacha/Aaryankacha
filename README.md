@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on **Face-based Patient Record System**
 - 🌱 I’m learning **Flutter, Firebase, Machine Learning and  and Web Development**
 - 💬 Ask me about **Python, dLib, Flutter, Firebase and Django**
-- ☕ Fun fact: I write better code with coffee… and a little help from my sloth buddy 🦥
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kacha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryannkacha@gmail.com) 
